@@ -1,6 +1,3 @@
-
-[![chiara logo](https://github.com/chiaradiaz1991/chiaradiaz1991/blob/master/computer.png?raw=true)](https://chiaradiaz.com)
-
 # Hello 🌿
 I'm a front-end developer, Illustrator and CopyWriter from Argentina, based in Poland. 
 I enjoy learning new things every day. I love making beautiful and functional websites and mobile applications! 
