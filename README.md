@@ -1,4 +1,4 @@
-# Hello 🌿
+# Hello 🔮
 I'm a front-end developer, Illustrator and CopyWriter from Argentina, based in Poland. 
 I enjoy learning new things every day. I love making beautiful and functional websites and mobile applications! 
 Also, in my free time, I'm a digital illustrator.
